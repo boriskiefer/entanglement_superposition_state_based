@@ -67,7 +67,7 @@ A more rigorous treatment would use density operators and quantum channels. That
 
 Typical contents include:
 
-- `entanglement_swapper_notebook.ipynb`  
+- `entanglement_swapper_jupyter_lab.ipynb`  
   Interactive simulator notebook with widgets and plots
 
 - `entanglement_swapper_instructor_report.pdf`  
