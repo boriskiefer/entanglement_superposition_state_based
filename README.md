@@ -70,9 +70,6 @@ Typical contents include:
 - `entanglement_swapper_notebook.ipynb`  
   Interactive simulator notebook with widgets and plots
 
-- `entanglement_swapper_instructor_report.tex`  
-  Instructor-facing report describing the physics model, metrics, classroom use, and assessment ideas
-
 - `entanglement_swapper_instructor_report.pdf`  
   Compiled instructor report
 
