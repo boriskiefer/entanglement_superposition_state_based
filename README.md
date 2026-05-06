@@ -139,7 +139,7 @@ Install with:
 
 ```bash
 pip install numpy matplotlib ipywidgets notebook
----
+```
 
 ## Acknowledgements
 
